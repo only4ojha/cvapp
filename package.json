@@ -1,0 +1,28 @@
+{
+  "name": "eProctor",
+  "version": "1.0.0",
+  "description": "eProctor - Computer Vision",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "WebRTC"
+  ],
+  "author": "Arvind",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "angular": "^1.7.9",
+    "angular-route": "^1.7.9",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6",
+    "jquery": "^3.4.1",
+    "simplewebrtc": "^3.0.2",
+    "socket.io": "^2.3.0",
+    "webrtc-adapter": "^7.5.1",
+    "worker-timers": "^6.0.7"
+  }
+}
