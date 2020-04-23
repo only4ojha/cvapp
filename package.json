@@ -15,8 +15,10 @@
     "url": ""
   },
   "dependencies": {
+    "@popperjs/core": "^2.3.3",
     "angular": "^1.7.9",
     "angular-route": "^1.7.9",
+    "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "handlebars": "^4.7.6",
     "jquery": "^3.4.1",
