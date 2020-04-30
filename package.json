@@ -21,7 +21,7 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "handlebars": "^4.7.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "simplewebrtc": "^3.0.2",
     "socket.io": "^2.3.0",
     "webrtc-adapter": "^7.5.1",
