@@ -23,7 +23,7 @@
     "handlebars": "^4.7.6",
     "jquery": "^3.4.1",
     "simplewebrtc": "^3.0.2",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "webrtc-adapter": "^7.5.1",
     "worker-timers": "^6.0.7"
   }
