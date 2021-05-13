@@ -1,5 +1,6 @@
-# cvapp
-Computer Vision
+## Running locally
+```yarn install```
+```yarn start```
 
-#### Start Command
-npm start
+## Update poll frequency using
+```localstorage.pollFreq = 1000```
