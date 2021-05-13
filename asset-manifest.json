@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cvapp/static/css/main.434c83f2.chunk.css",
+    "main.js": "/cvapp/static/js/main.8704cf6e.chunk.js",
+    "main.js.map": "/cvapp/static/js/main.8704cf6e.chunk.js.map",
+    "runtime-main.js": "/cvapp/static/js/runtime-main.a036abf0.js",
+    "runtime-main.js.map": "/cvapp/static/js/runtime-main.a036abf0.js.map",
+    "static/css/2.92c2f793.chunk.css": "/cvapp/static/css/2.92c2f793.chunk.css",
+    "static/js/2.5d1436e9.chunk.js": "/cvapp/static/js/2.5d1436e9.chunk.js",
+    "static/js/2.5d1436e9.chunk.js.map": "/cvapp/static/js/2.5d1436e9.chunk.js.map",
+    "static/js/3.9289747d.chunk.js": "/cvapp/static/js/3.9289747d.chunk.js",
+    "static/js/3.9289747d.chunk.js.map": "/cvapp/static/js/3.9289747d.chunk.js.map",
+    "index.html": "/cvapp/index.html",
+    "service-worker.js": "/cvapp/service-worker.js",
+    "service-worker.js.map": "/cvapp/service-worker.js.map",
+    "static/css/2.92c2f793.chunk.css.map": "/cvapp/static/css/2.92c2f793.chunk.css.map",
+    "static/css/main.434c83f2.chunk.css.map": "/cvapp/static/css/main.434c83f2.chunk.css.map",
+    "static/js/2.5d1436e9.chunk.js.LICENSE.txt": "/cvapp/static/js/2.5d1436e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a036abf0.js",
+    "static/css/2.92c2f793.chunk.css",
+    "static/js/2.5d1436e9.chunk.js",
+    "static/css/main.434c83f2.chunk.css",
+    "static/js/main.8704cf6e.chunk.js"
+  ]
+}
